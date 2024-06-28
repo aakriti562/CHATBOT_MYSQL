@@ -1,0 +1,10 @@
+langchain==0.2.6
+langchain_community==0.2.6
+langchain_core==0.2.10
+langchain_google_genai==1.0.7
+langchain_groq==0.1.5
+langchain_openai==0.1.11
+protobuf==5.27.2
+python-dotenv==1.0.1
+streamlit==1.31.0
+mysql-connector-python
