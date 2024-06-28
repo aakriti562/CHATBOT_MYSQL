@@ -62,5 +62,12 @@ streamlit run app.py
 ```
 ## Screenshots
 
+![image](https://github.com/aakriti562/CHATBOT_MYSQL/assets/76481840/45026c05-2d6e-4b63-be8b-866b4c0d1742)
+
+## Working 
+
+![image](https://github.com/aakriti562/CHATBOT_MYSQL/assets/76481840/f967eb6d-3fc3-4634-a08c-c47718b03be6)
+
+
 
 
